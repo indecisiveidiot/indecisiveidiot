@@ -1,5 +1,8 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31q7avkng4om2dlghwucstjbfsr4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=b3fff9)](https://github.com/kittinan/spotify-github-profile)
-
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q7avkng4om2dlghwucstjbfsr4&cover_image=true&theme=default&show_offline=true&background_color=fff475&interchange=false&profanity=false&hide_remaster=false&bar_color=ff80bd">
+  </a>
+</p>
 # In fo info!
 r e a d i ng! r e a d i n g !
 
